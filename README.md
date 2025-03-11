@@ -1,6 +1,7 @@
-# Create your own website （siyuanli.tech）
+# Create your own website 
 
-Hi, I'm Siyuan Li (黎思源), and this is the repo of my personal website, which also serves as my resume. I'm glad you found my website, and welcome!
+
+Hi, I'm Xiangyong Fang, and this is the repo of my personal website, which also serves as my resume. I'm glad you found my website, and welcome!
 
 This html and css is completely original with the help of AI, optimized for my individual needs. I also welcome you to use this as a template for your own personal website to fork, don't forget star!
 
@@ -25,7 +26,6 @@ Once you've forked the repository, you'll see several files, including `index.ht
 - **index.html**: This is the main content file of the website. When someone opens your website, this is the content that will be displayed. You can edit the text and images here to personalize your website.
 - **styles.css**: This file controls the website's appearance and layout (e.g., background colors, font sizes, spacing). If you're satisfied with the default layout, you can skip modifying this file.
 - **404.html**: This file defines the content that appears when someone tries to visit a page on your website that doesn't exist.
-- **game.html**: This is a small Easter egg game I included. You can choose to keep it or remove it.
 - **LICENSE**: This file contains the open-source license for the website. You don't need to modify it, but you can replace it with a more permissive MIT license if desired.
 - **CNAME**: This file is used to link a custom domain. **Be sure to delete this file** if you're not using a custom domain. To delete it, open the file, click the three dots in the top-right corner, and select **Delete file**.
 - **track-visitors.js**: This file is used to record who visited the site and the recorded data is currently sent to the project author's database, be sure to **delete this file**.
@@ -35,7 +35,6 @@ Once you've forked the repository, you'll see several files, including `index.ht
 1. After cloning the repository locally, it's recommended to use **Visual Studio Code (VSCode)** for editing.
 2. Install the **Live Server** extension for VSCode to preview your changes in real-time.
 3. Once you finish editing the `index.html` and other files, commit and push the changes back to your GitHub repository.
-4. Remember to delete the entire `track-visitors.js` file, otherwise your website visitor record will be received by me.
 
 ### Deploy Your Website
 
@@ -49,7 +48,6 @@ Once you've forked the repository, you'll see several files, including `index.ht
 
 ## 如何从零开始创建自己的网站 (Chinese)
 
-如果是纯小白，可以通过[这个网址](https://blog.csdn.net/m0_61718615/article/details/142624599)访问带图版，并且步骤描写更为详细（包含无代码的办法）。
 
 ### Fork 这个仓库
 
@@ -66,17 +64,15 @@ fork 仓库后，您会看到多个文件，包括 `index.html`、`styles.css` �
 - **index.html**: 这是网站主页的内容文件，打开网址后显示的就是该文件中的内容。您可以在这里自定义网站的文字和图片。
 - **styles.css**: 该文件控制网站的样式与外观（例如背景颜色、文字大小、排版等）。如果您对默认样式没有太大需求，可以跳过修改。
 - **404.html**: 当用户访问您网站中不存在的页面时，这个文件定义了出现的内容。
-- **game.html**: 这是我添加的一个小彩蛋游戏，您可以选择保留或删除。
 - **LICENSE**: 包含网站的开源许可条款，无需更改，也可以替换为更加开放的 MIT 协议。
 - **CNAME**: 这个文件用于关联自定义域名，如果不需要自定义域名，**请务必删除**。操作步骤为：打开该文件，点击页面右上角的“三个点”图标，选择 **Delete file**。
-- **track-visitors.js**: 这个文件用于记录谁访问了这个网站，目前是发送到此项目作者的数据库，尽量**删除这个文件**。
 
 ### 编辑内容
 
 1. 克隆仓库到本地后，建议使用 **Visual Studio Code (VSCode)** 进行编辑。
 2. 您可以安装 VSCode 的 **Live Server 插件**，实时预览您编辑后的页面效果。
 3. 修改完 `index.html` 和其他文件后，将更改提交并推送到您的 GitHub 仓库。
-4. 切记**整个删除**`track-visitors.js`文件，否则你的网站访客记录会被我全部收到。
+
 
 ### 部署网站
 
@@ -87,5 +83,5 @@ fork 仓库后，您会看到多个文件，包括 `index.html`、`styles.css` �
 
 ### 恭喜！您的网站已经成功搭建完成！
 
-### If you have any question of the code, please contact me or leave an issue. My email:1793706453@qq.com
+### If you have any question of the code, please contact me or leave an issue. My email:2961017743@qq.com
 
