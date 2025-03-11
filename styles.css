@@ -1,0 +1,105 @@
+/* 导入谷歌字体 */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&family=Merriweather:wght@700&display=swap');
+
+/* 全局样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* 容器 */
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* 头部 */
+header {
+    background: #2C3E50;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+    border-radius: 0 0 15px 15px;
+}
+
+header h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    opacity: 0.8;
+}
+
+/* 个人信息 */
+.profile-info p {
+    font-size: 1rem;
+    margin: 5px 0;
+}
+
+.profile-info a {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+.profile-info a:hover {
+    text-decoration: underline;
+}
+
+/* 主要内容 */
+main {
+    margin-top: 20px;
+}
+
+/* 统一样式的卡片 */
+section {
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 1.5rem;
+    color: #2C3E50;
+    margin-bottom: 10px;
+    border-left: 5px solid #3498db;
+    padding-left: 10px;
+}
+
+/* 奖项列表 */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    background: #ecf0f1;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+
+/* 底部 */
+footer {
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+    background: #2C3E50;
+    color: white;
+    font-size: 0.9rem;
+    border-radius: 15px 15px 0 0;
+}
